@@ -29,6 +29,10 @@ Technical Support
 * QQ group: 582349005
 * Web Site: http://www.wirelessdisplay.cn/
 
+Business
+---
+* mail: marketing@bijienetworks.com
+* Tel: (+86)0512-67663822
 
 Demo
 ----
