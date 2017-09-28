@@ -1,27 +1,53 @@
-AirPlay
+AirPlay Server
 ===
-Apple devices such as iPhone,iPad and etc, which can use AirPlay to casting device to other screen,but if people want to use this good function,we may should buy apple box, or buy third box which have cracked the protocol.
+Feature
+----
+* Mirror
+* Video Play
+* Picture Play
+* Music Play
+* Multi Clients
 
-We have realized the AirPlay,and ios7,ios8,ios9,ios10,and osx is all supported.
+Support Airplay Client System
+-----
+* iOS6/iOS7/iOS8/iOS9/iOS10/iOS11
 
-MIRROR:
+Support Server System
+------
+* Linux
+* Android 4.0+
+* Windows
+
+Support Server Hardware
+-----
+* ARM
+* X86_32/X86_64
+* MIPS
+
+Technical Support
+-----
+* QQ group: 582349005
+* Web Site: http://www.wirelessdisplay.cn/
+
+
+Demo
+----
+#MIRROR:
 
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/mirror.gif)
 
-MUSIC:
+#MUSIC:
 
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/music.gif)
 
-PICTURE:
+#PICTURE:
 
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
 
-VIDEO:
+#VIDEO:
 
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/video.gif)
 
-And we also realized the multi casting screen.
-
+#Multi
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/two.gif)
 
-If you are intrested in this program, you can discuss with us, contact QQ:582349005,or you can leave a message on this project.
