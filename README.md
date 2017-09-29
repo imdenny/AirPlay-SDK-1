@@ -36,22 +36,25 @@ Business
 
 Demo
 ----
-#MIRROR:
+# One Airplay Client
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay_1.jpg)
 
+# Four Airplay Client
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay_4.jpg)
+
+
+# MIRROR:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/mirror.gif)
 
-#MUSIC:
-
+# MUSIC:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/music.gif)
 
-#PICTURE:
-
+# PICTURE:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
 
-#VIDEO:
-
+# VIDEO:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/video.gif)
 
-#Multi
+# Multi
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/two.gif)
 
