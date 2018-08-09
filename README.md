@@ -1,4 +1,4 @@
-AirPlay Server
+AirPlay Server SDK
 ===
 Feature
 ----
