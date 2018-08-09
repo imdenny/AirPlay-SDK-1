@@ -37,8 +37,8 @@ Business
 Demo
 ----
 ### One Airplay Client
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay_1.jpg)
-
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-one.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-onemessage.jpg)
 ### Four Airplay Client
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay_4.jpg)
 
