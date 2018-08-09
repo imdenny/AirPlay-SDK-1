@@ -49,7 +49,9 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/music.gif)
 
 ### PICTURE:
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic-iphone.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.mp4)
 
 ### VIDEO:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/video.gif)
