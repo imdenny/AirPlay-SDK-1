@@ -57,8 +57,6 @@ Demo
 ![](http://wx2.sinaimg.cn/mw690/56342928gy1fu3pu1lirqj21hc0u00us.jpg)
 ![](http://wx3.sinaimg.cn/mw690/56342928gy1fu3pu25ew1j21hc0u040p.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/video.gif)
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/video-iphone.jpg)
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/video-iphone-aqy.jpg)
 
 
 ### Multi
