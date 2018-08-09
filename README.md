@@ -40,8 +40,8 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-one.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-onemessage.jpg)
 ### Four Airplay Client
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay_4.jpg)
-
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplayfour.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/iosFOUR.jpg)
 ### MIRROR:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/mirror.gif)
 
