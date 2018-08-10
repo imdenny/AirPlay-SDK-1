@@ -51,7 +51,7 @@ Demo
 ### PICTURE:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic-iphone.jpg)
-
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
 
 ### VIDEO:
 ![](http://wx2.sinaimg.cn/mw690/56342928gy1fu3pu1lirqj21hc0u00us.jpg)
