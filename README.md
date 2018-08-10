@@ -46,7 +46,7 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-mirror.gif)
 
 ### MUSIC:
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-music)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-music300.gif)
 
 ### PICTURE:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.jpg)
