@@ -43,15 +43,14 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplayfour.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/iosFOUR.jpg)
 ### MIRROR:
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/mirror.gif)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-mirror.gif)
 
 ### MUSIC:
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/music.gif)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-music)
 
 ### PICTURE:
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic-iphone.jpg)
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic300.gif)
 
 ### VIDEO:
@@ -60,5 +59,5 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-video.gif)
 
 ### Multi
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/two.gif)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-multi.gif)
 
