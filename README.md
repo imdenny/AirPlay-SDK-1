@@ -52,12 +52,11 @@ Demo
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic-iphone.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/pic.gif)
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic.gif)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-pic300.gif)
 
 ### VIDEO:
 ![](http://wx2.sinaimg.cn/mw690/56342928gy1fu3pu1lirqj21hc0u00us.jpg)
 ![](http://wx3.sinaimg.cn/mw690/56342928gy1fu3pu25ew1j21hc0u040p.jpg)
-![](https://github.com/wirelessdisplay/AirPlay/blob/master/video.gif)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-video.gif)
 
 ### Multi
