@@ -39,10 +39,16 @@ Demo
 ### One Airplay Client
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-one.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-onemessage.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay1.jpg)
+
+
 ### Four Airplay Client
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplayfour.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/iosFOUR.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay4.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay4-1.jpg)
 ### MIRROR:
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/mirror1.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-mirror.gif)
 
 ### MUSIC:
@@ -56,8 +62,12 @@ Demo
 ### VIDEO:
 ![](http://wx2.sinaimg.cn/mw690/56342928gy1fu3pu1lirqj21hc0u00us.jpg)
 ![](http://wx3.sinaimg.cn/mw690/56342928gy1fu3pu25ew1j21hc0u040p.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/video-ios1.jpg)
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-aiqiyi.gif)
 
 ### Multi
 ![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay-multi.gif)
-
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay2.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay2-1.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay3.jpg)
+![](https://github.com/wirelessdisplay/AirPlay/blob/master/airplay3-1.jpg)
